@@ -16,8 +16,4 @@ Our bot can understand basic commands, respond with relevant information, and ev
 - Jupyter Notebook
 
 ## Report 
-[View Project Report (PDF)](PS2NLPMahmood.pdf)
-
-
-
-
+[Click this to view the report PS2NLPMahmood.pdf](PS2NLPMahmood.pdf)
