@@ -15,5 +15,9 @@ Our bot can understand basic commands, respond with relevant information, and ev
 - Discord.py  
 - Jupyter Notebook
 
+## Report 
+[View Project Report (PDF)](PS2NLPMahmood.pdf)
+
+
 
 
