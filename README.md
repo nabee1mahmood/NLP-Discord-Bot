@@ -17,3 +17,6 @@ Our bot can understand basic commands, respond with relevant information, and ev
 
 ## Report 
 [Click this to view the report PS2NLPMahmood.pdf](PS2NLPMahmood.pdf)
+
+
+## Video Demonstration
